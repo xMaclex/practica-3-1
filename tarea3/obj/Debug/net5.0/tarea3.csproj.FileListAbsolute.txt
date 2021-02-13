@@ -1,0 +1,16 @@
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.AssemblyInfo.cs
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\tarea3.exe
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\tarea3.deps.json
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\tarea3.runtimeconfig.json
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\tarea3.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\tarea3.dll
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\ref\tarea3.dll
+C:\Users\Michael\Desktop\tarea3\bin\Debug\net5.0\tarea3.pdb
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.dll
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\ref\tarea3.dll
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.pdb
+C:\Users\Michael\Desktop\tarea3\obj\Debug\net5.0\tarea3.genruntimeconfig.cache
